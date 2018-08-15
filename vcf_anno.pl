@@ -1,12 +1,8 @@
 =pod
 
-this script write for the database(wes_annotation_filter_1205update2.txt)file info extract
+this script write for the database file info extract
 Models：
-LU-01-1004
-LU-01-1008
-LU-01-1013
-LU-01-1017
-找出以上模型中EGFR的非同义突变信息，要包含（外显子信息，转录本信息和氨基酸信息）
+
 
 =cut
 #!/usr/bin/perl
