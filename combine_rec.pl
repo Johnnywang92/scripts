@@ -2,7 +2,7 @@ use warnings;
 use strict;
 
 
-#Thu Oct 10 08:29:46 CST 2018 by huang_dawei@wuxiapptec.com
+#Thu Oct 10 08:29:46 CST 2018 by huang_dawei
 
 use warnings;
 use strict;
