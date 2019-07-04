@@ -25,7 +25,6 @@ my @info=split /\t/;
         push @seq,$seq;
 }
 #close Lib;
-#print Out "@info\n";
 
 while (@line = <FA>){
 #chomp;
