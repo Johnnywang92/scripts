@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 =head
-        perl  vcf.filter.sample.pl -vcf vcf.file
+        perl  vcf.filter.sample.pl -vcf Gnomad_vcf.file
 =cut
 #use strict;
 use warnings;
@@ -44,7 +44,6 @@ if ($info =~ /AC=/){
 #   print "$1\n";
 push @info, $1;
     }else{
-#print "NA\n"
 }
 
 if ($info =~ /AF=/){
@@ -52,7 +51,6 @@ if ($info =~ /AF=/){
 #        print "$1\n";
 push @info,$1;
 }else{
-#print "NA\n"
 }
 
 
