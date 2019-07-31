@@ -1,5 +1,5 @@
 #/usr/bin/perl
-
+##draw lessons from https://github.com/genome/vcf-evaluation/blob/master/evaluate_vcf.pl
 use warnings;
 use strict;
 
